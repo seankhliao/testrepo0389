@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: hello
-  namespace: testrepo0389
-data:
-  hello: world
